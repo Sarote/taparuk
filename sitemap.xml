@@ -1,89 +1,543 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url><loc>http://www.taparuk.com/</loc><lastmod>2014-06-06T22:49:05+00:00</lastmod><changefreq>daily</changefreq><priority>1.00</priority></url>
-<url><loc>http://www.taparuk.com/contact.html</loc><lastmod>2014-06-06T22:41:22+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/shelves.html</loc><lastmod>2014-06-06T22:48:12+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/about.html</loc><lastmod>2014-06-06T22:41:22+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/foods.html</loc><lastmod>2014-06-06T22:48:09+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/podium.html</loc><lastmod>2014-06-06T22:48:10+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/board.html</loc><lastmod>2014-06-06T22:48:07+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/led.html</loc><lastmod>2014-06-06T22:48:10+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/service.html</loc><lastmod>2014-06-06T22:48:11+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/product.html</loc><lastmod>2014-06-06T23:02:37+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/s105.html</loc><lastmod>2014-06-06T22:41:12+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/s106.html</loc><lastmod>2014-06-06T22:41:13+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/s107.html</loc><lastmod>2014-06-06T22:41:13+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/s108.html</loc><lastmod>2014-06-06T22:41:13+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/s113.html</loc><lastmod>2014-06-06T22:41:14+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/s114.html</loc><lastmod>2014-06-06T22:41:15+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/s115.html</loc><lastmod>2014-06-06T22:41:15+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/s116.html</loc><lastmod>2014-06-06T22:41:15+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/f101.html</loc><lastmod>2014-06-06T22:41:03+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/f103.html</loc><lastmod>2014-06-06T22:41:03+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/f105.html</loc><lastmod>2014-06-06T22:41:04+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/f106.html</loc><lastmod>2014-06-06T22:41:04+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/p105.html</loc><lastmod>2014-06-06T22:41:10+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/p106.html</loc><lastmod>2014-06-06T22:41:10+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/p107.html</loc><lastmod>2014-06-06T22:41:10+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/p108.html</loc><lastmod>2014-06-06T22:41:11+00:00</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
-<url><loc>http://www.taparuk.com/products/s101.html</loc><lastmod>2014-06-06T22:41:11+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s102.html</loc><lastmod>2014-06-06T22:41:11+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s103.html</loc><lastmod>2014-06-06T22:41:12+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s104.html</loc><lastmod>2014-06-06T22:41:12+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s109.html</loc><lastmod>2014-06-06T22:41:13+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s110.html</loc><lastmod>2014-06-06T22:41:14+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s111.html</loc><lastmod>2014-06-06T22:41:14+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s112.html</loc><lastmod>2014-06-06T22:41:14+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s117.html</loc><lastmod>2014-06-06T22:41:16+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s118.html</loc><lastmod>2014-06-06T22:41:16+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s119.html</loc><lastmod>2014-06-06T22:41:16+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s120.html</loc><lastmod>2014-06-06T22:41:16+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s121.html</loc><lastmod>2014-06-06T22:41:17+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s122.html</loc><lastmod>2014-06-06T22:41:17+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s123.html</loc><lastmod>2014-06-06T22:41:17+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s124.html</loc><lastmod>2014-06-06T22:41:17+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s125.html</loc><lastmod>2014-06-06T22:41:18+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s126.html</loc><lastmod>2014-06-06T22:41:18+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s127.html</loc><lastmod>2014-06-06T22:41:18+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s128.html</loc><lastmod>2014-06-06T22:41:18+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s129.html</loc><lastmod>2014-06-06T22:41:19+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s130.html</loc><lastmod>2014-06-06T22:41:19+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s131.html</loc><lastmod>2014-06-06T22:41:19+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s132.html</loc><lastmod>2014-06-06T22:41:20+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s133.html</loc><lastmod>2014-06-06T22:41:20+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s134.html</loc><lastmod>2014-06-06T22:41:20+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s135.html</loc><lastmod>2014-06-06T22:41:20+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/s136.html</loc><lastmod>2014-06-06T22:41:21+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f102.html</loc><lastmod>2014-06-06T22:41:02+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f104.html</loc><lastmod>2014-06-06T22:41:03+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f107.html</loc><lastmod>2014-06-06T22:41:04+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f108.html</loc><lastmod>2014-06-06T22:41:04+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f110.html</loc><lastmod>2014-06-06T22:41:05+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f109.html</loc><lastmod>2014-06-06T22:41:05+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f111.html</loc><lastmod>2014-06-06T22:41:05+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f112.html</loc><lastmod>2014-06-06T22:41:06+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f113.html</loc><lastmod>2014-06-06T22:41:06+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f114.html</loc><lastmod>2014-06-06T22:41:06+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f115.html</loc><lastmod>2014-06-06T22:41:06+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/f116.html</loc><lastmod>2014-06-06T22:41:07+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/p101.html</loc><lastmod>2014-06-06T22:41:09+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/p102.html</loc><lastmod>2014-06-06T22:41:09+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/p103.html</loc><lastmod>2014-06-06T22:41:09+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/p104.html</loc><lastmod>2014-06-06T22:41:09+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/b101.html</loc><lastmod>2014-06-06T22:40:57+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/b102.html</loc><lastmod>2014-06-06T22:40:59+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/b103.html</loc><lastmod>2014-06-06T22:41:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/b104.html</loc><lastmod>2014-06-06T22:41:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/b105.html</loc><lastmod>2014-06-06T22:41:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/b106.html</loc><lastmod>2014-06-06T22:41:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/b107.html</loc><lastmod>2014-06-06T22:41:01+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/b108.html</loc><lastmod>2014-06-06T22:41:01+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/b109.html</loc><lastmod>2014-06-06T22:41:01+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/b110.html</loc><lastmod>2014-06-06T22:41:02+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/l101.html</loc><lastmod>2014-06-06T22:41:07+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/l102.html</loc><lastmod>2014-06-06T22:41:08+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/l103.html</loc><lastmod>2014-06-06T22:41:08+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<url><loc>http://www.taparuk.com/products/l104.html</loc><lastmod>2014-06-06T22:41:08+00:00</lastmod><changefreq>daily</changefreq><priority>0.69</priority></url>
-<!-- Generated by www.web-site-map.com -->
-</urlset>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+<url>
+  <loc>http://www.taparuk.com/</loc>
+  <lastmod>2014-11-04T04:29:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/about.html</loc>
+  <lastmod>2014-10-30T02:34:49+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/contact.html</loc>
+  <lastmod>2014-10-30T02:34:49+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/shelves.html</loc>
+  <lastmod>2014-10-30T02:36:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/foods.html</loc>
+  <lastmod>2014-11-04T06:36:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/podium.html</loc>
+  <lastmod>2014-10-30T02:36:36+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/board.html</loc>
+  <lastmod>2014-10-30T02:36:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/led.html</loc>
+  <lastmod>2014-10-30T02:36:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/service.html</loc>
+  <lastmod>2014-10-31T09:46:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product.html</loc>
+  <lastmod>2014-10-30T02:34:50+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s101.html</loc>
+  <lastmod>2014-11-04T08:45:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s105.html</loc>
+  <lastmod>2014-11-04T08:45:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s106.html</loc>
+  <lastmod>2014-11-04T08:45:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s107.html</loc>
+  <lastmod>2014-11-04T08:45:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s108.html</loc>
+  <lastmod>2014-11-04T08:45:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s113.html</loc>
+  <lastmod>2014-11-04T08:48:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s114.html</loc>
+  <lastmod>2014-11-04T08:48:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s115.html</loc>
+  <lastmod>2014-11-04T08:48:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s116.html</loc>
+  <lastmod>2014-11-04T08:48:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s120.html</loc>
+  <lastmod>2014-11-04T08:48:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s123.html</loc>
+  <lastmod>2014-11-04T08:48:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s126.html</loc>
+  <lastmod>2014-11-04T08:48:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f101.html</loc>
+  <lastmod>2014-11-04T07:52:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f103.html</loc>
+  <lastmod>2014-11-04T07:52:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f105.html</loc>
+  <lastmod>2014-11-04T07:52:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f106.html</loc>
+  <lastmod>2014-11-04T07:52:31+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p105.html</loc>
+  <lastmod>2014-11-04T07:56:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p106.html</loc>
+  <lastmod>2014-11-04T07:58:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p107.html</loc>
+  <lastmod>2014-11-04T07:52:59+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p108.html</loc>
+  <lastmod>2014-11-04T07:58:41+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b101.html</loc>
+  <lastmod>2014-11-04T07:52:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b108.html</loc>
+  <lastmod>2014-11-04T07:52:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b109.html</loc>
+  <lastmod>2014-11-04T07:52:43+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b111.html</loc>
+  <lastmod>2014-11-04T07:52:43+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s102.html</loc>
+  <lastmod>2014-11-04T08:46:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s103.html</loc>
+  <lastmod>2014-11-04T08:45:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s104.html</loc>
+  <lastmod>2014-11-04T08:45:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s109.html</loc>
+  <lastmod>2014-11-04T08:48:25+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s110.html</loc>
+  <lastmod>2014-11-04T08:48:25+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s111.html</loc>
+  <lastmod>2014-11-04T08:48:25+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s112.html</loc>
+  <lastmod>2014-11-04T08:48:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s117.html</loc>
+  <lastmod>2014-11-04T08:48:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s118.html</loc>
+  <lastmod>2014-11-04T08:48:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s119.html</loc>
+  <lastmod>2014-11-04T08:48:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s121.html</loc>
+  <lastmod>2014-11-04T08:48:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s122.html</loc>
+  <lastmod>2014-11-04T08:48:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s124.html</loc>
+  <lastmod>2014-11-04T08:48:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s125.html</loc>
+  <lastmod>2014-11-04T08:48:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s127.html</loc>
+  <lastmod>2014-11-04T08:48:31+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s128.html</loc>
+  <lastmod>2014-11-04T08:48:31+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s129.html</loc>
+  <lastmod>2014-11-04T08:48:31+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s130.html</loc>
+  <lastmod>2014-11-04T08:48:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s131.html</loc>
+  <lastmod>2014-11-04T08:52:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s132.html</loc>
+  <lastmod>2014-11-04T08:48:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s133.html</loc>
+  <lastmod>2014-11-04T08:48:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s134.html</loc>
+  <lastmod>2014-11-04T08:48:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s135.html</loc>
+  <lastmod>2014-11-04T08:48:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/s136.html</loc>
+  <lastmod>2014-11-04T08:48:34+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f102.html</loc>
+  <lastmod>2014-11-04T07:52:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f104.html</loc>
+  <lastmod>2014-11-04T07:52:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f107.html</loc>
+  <lastmod>2014-11-04T07:52:31+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f108.html</loc>
+  <lastmod>2014-11-04T07:52:31+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f109.html</loc>
+  <lastmod>2014-11-04T07:52:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f110.html</loc>
+  <lastmod>2014-11-04T07:52:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f111.html</loc>
+  <lastmod>2014-11-04T07:52:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f112.html</loc>
+  <lastmod>2014-11-04T07:52:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f113.html</loc>
+  <lastmod>2014-11-04T07:52:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f114.html</loc>
+  <lastmod>2014-11-04T07:52:34+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f115.html</loc>
+  <lastmod>2014-11-04T07:52:34+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/f116.html</loc>
+  <lastmod>2014-11-04T07:52:34+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p101.html</loc>
+  <lastmod>2014-11-04T07:52:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p102.html</loc>
+  <lastmod>2014-11-04T07:52:57+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p103.html</loc>
+  <lastmod>2014-11-04T07:54:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p104.html</loc>
+  <lastmod>2014-11-04T07:52:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p109.html</loc>
+  <lastmod>2014-11-04T08:03:52+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p110.html</loc>
+  <lastmod>2014-11-04T08:07:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p111.html</loc>
+  <lastmod>2014-11-04T08:08:52+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/p112.html</loc>
+  <lastmod>2014-11-04T08:09:34+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b102.html</loc>
+  <lastmod>2014-11-04T07:52:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b103.html</loc>
+  <lastmod>2014-11-04T07:52:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b104.html</loc>
+  <lastmod>2014-11-04T07:52:41+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b105.html</loc>
+  <lastmod>2014-11-04T07:52:41+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b106.html</loc>
+  <lastmod>2014-11-04T07:52:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b107.html</loc>
+  <lastmod>2014-11-04T07:52:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/b110.html</loc>
+  <lastmod>2014-11-04T07:52:43+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/l101.html</loc>
+  <lastmod>2014-11-04T07:52:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/l102.html</loc>
+  <lastmod>2014-11-04T07:52:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/l103.html</loc>
+  <lastmod>2014-11-04T07:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.taparuk.com/product/l104.html</loc>
+  <lastmod>2014-11-04T07:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>

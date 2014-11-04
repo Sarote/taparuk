@@ -9,7 +9,7 @@ $('.scroll-top').click(function () {
     }, 1000);
 });
 
-$('.text-panel').dotdotdot({
+$('.panel-text').dotdotdot({
     ellipsis: '...',
     /* The HTML to add as ellipsis. */
     wrap: 'word',
@@ -21,4 +21,9 @@ $(document).delegate('*[data-toggle="lightbox"]', 'click', function (event) {
     "use strict";
     event.preventDefault();
     $(this).ekkoLightbox();
+});
+
+$('#product-details a').click(function (e) {
+  e.preventDefault();
+  $(this).tab('show');
 });

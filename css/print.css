@@ -1,22 +1,33 @@
 @media print {
-	body {
-		margin: 0;
-		padding: 0;
-		line-height: 1.4em;
-		word-spacing: 1px;
-		letter-spacing: 0.2px;
-		font: 13px Tahoma, Arial, Helvetica, san-serif;
-		color: #000;
-	}
-	img {
-		min-height: 2.5in;
-		min-width: 2.5in;
-		max-height: 2.5in;
-		max-width: 2.5in;
-	}
-	.product-detail-info,
-	.nav-tabs,
-	.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
-		border: 0;
-	}
+    body {
+        background-color: #fff;
+        color: #000;
+        margin: 0;
+        padding: 0;
+        line-height: 1.4em;
+        word-spacing: 1px;
+        letter-spacing: 0.2px;
+    }
+    img {
+        float: left;
+        padding: 0 0.5cm 0.5cm 0;
+        max-height: 2.5in;
+        max-width: 2.5in;
+    }
+    .product-detail-info,
+    .nav-tabs,
+    .nav-tabs>li.active>a,
+    .nav-tabs>li.active>a:hover,
+    .nav-tabs>li.active>a:focus {
+        border: 0;
+    }
+    .footer .thai {
+        text-align: center;
+    }
+    .tab-content .tab-pane {
+        display: block;
+        opacity: 1;
+        width: 50%;
+        text-align: center;
+    }
 }
