@@ -24,6 +24,7 @@ $(document).delegate('*[data-toggle="lightbox"]', 'click', function (event) {
 });
 
 $('#product-details a').click(function (e) {
-  e.preventDefault();
-  $(this).tab('show');
+    "use strict";
+    e.preventDefault();
+    $(this).tab('show');
 });
