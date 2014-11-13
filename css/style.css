@@ -238,7 +238,7 @@ a .list-group-item,
     color: #333;
 }
 .list-group a.list-group-item {
-/*    border-bottom-right-radius: 4px;
+    /*    border-bottom-right-radius: 4px;
     border-bottom-left-radius: 4px; */
     transition: all 0.2s ease;
 }
@@ -321,7 +321,7 @@ a.thumbnail:active {
 .caption {
     font-size: 0.9em;
 }
-@media (min-width: 798px) {
+@media (min-width: 768px) {
     .product-item .title,
     .product-item .actions {
         text-align: left;
@@ -381,7 +381,9 @@ a.thumbnail:active {
     height: 300px;
     width: 100%;
 }
-
 .panel-tag {
     min-height: 3.2em;
+}
+.caption {
+    font-size: 0.7em;
 }

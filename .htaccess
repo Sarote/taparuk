@@ -23,6 +23,7 @@ DirectoryIndex index.html index.htm
 	RewriteCond %{HTTP_HOST} ^taparuk\.com
 	RewriteRule ^(.*)$ http://www.taparuk.com/$1 [R=301,L]
 	RewriteRule ^index.html$ http://www.taparuk.com/$1 [R=301,L] 
+	RewriteRule ^/?products/(.*) http://www.taparuk.com/product/$1 [R,L]
 
   #GZIP
   <ifModule mod_gzip.c>
