@@ -1,5 +1,6 @@
 # Set the default handler.
 DirectoryIndex index.html index.htm
+AddType text/x-component .htc
 
 # Requires mod_expires to be enabled.
 <IfModule mod_expires.c>
